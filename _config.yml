@@ -5,7 +5,7 @@ locale: en_US
 description: The Magic Carbon. LOL~
 logo: site-logo.gif
 search: true
-url: http://magicarbon.github.io/mc #http://MagiCarbon.github.io
+url: https://magicarbon.github.io/mc #http://MagiCarbon.github.io
 
 
 # Jekyll configuration
