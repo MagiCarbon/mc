@@ -1,0 +1,8 @@
+_site/
+.sass-cache/
+node_modules/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+_config-local.yml
